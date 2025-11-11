@@ -10,7 +10,7 @@ The main goals of this project are:
 * Visualize trends and correlations using Matplotlib and Seaborn.
   
 ### About the Dataset
-    The dataset contains real-world housing sale records from May 2014 to May 2015. Each record represents a house sold in King County, along with multiple descriptive attributes.
+  The dataset contains real-world housing sale records from May 2014 to May 2015. Each record represents a house sold in King County, along with multiple descriptive attributes.
 Key columns include:
 
   * price: The target variable representing the sale price.
