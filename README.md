@@ -54,6 +54,4 @@ Key columns include:
     Next, PolynomialFeatures (degree 2) are applied to capture non-linear relationships, and the model’s R² is recalculated for comparison.
 
 ### Results and Insight
-    Features like sqft_living, grade, and bathrooms have the highest impact on price.
-    Houses with waterfront views and higher grades show significantly higher prices.
-    The Ridge Regression model with polynomial transformation achieves improved predictive performance, balancing bias and variance effectively.
+  Features like sqft_living, grade, and bathrooms have the highest impact on price. Houses with waterfront views and higher grades show significantly higher prices.The Ridge Regression model with polynomial transformation achieves improved predictive performance, balancing bias and variance effectively.
